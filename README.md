@@ -1,2 +1,2 @@
 # toolz
-自作ツール
+自作ツールをまとめたRepository
